@@ -1,0 +1,4 @@
+chromadb
+streamlit
+sqlalchemy
+bs4
