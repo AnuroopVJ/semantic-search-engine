@@ -4,7 +4,7 @@ A semantic web search engine that performs context-aware document retrieval usin
 
 ---
 
-## 🧠 Overview
+## What this is
 
 This project implements a **semantic search engine** that goes beyond basic keyword search. It understands the meaning behind your queries and returns the most relevant documents from a crawled dataset.
 
@@ -21,7 +21,7 @@ This project implements a **semantic search engine** that goes beyond basic keyw
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Semantic Understanding**: Retrieves results based on meaning, not just keywords.
 - **Ethical Crawler**:
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧱 How the Crawler Works
+## How the Crawler Works
 
 Run the crawler via:
 
