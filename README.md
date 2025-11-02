@@ -1,7 +1,8 @@
 # Semantic Search Engine
 
 A semantic web search engine that performs context-aware document retrieval using ChromaDB for vector storage, SQLAlchemy for structured metadata storage, and Streamlit for the user interface.
-![]()
+
+![](semantic-search-enginebanner.png)
 ---
 
 ## What this is
@@ -10,7 +11,7 @@ This project implements a **semantic search engine** that goes beyond basic keyw
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 | File / Folder                  | Description                                                                                                  |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -37,7 +38,7 @@ This project implements a **semantic search engine** that goes beyond basic keyw
 
 ---
 
-## 🔧 Setup
+## Setup
 
 ### 1. Clone the repository
 
@@ -76,11 +77,11 @@ What it does:
 
 ---
 
-## 📓 Jupyter Notebook (One-stop Pipeline)
+## Jupyter Notebook (One-stop Pipeline)
 
 You can run everything — crawling, vectorization, launching UI — from the `Semantic_Search_Engine.ipynb`.
 
-### ⚠️ If running on Google Colab:
+### If running on Google Colab:
 
 Since Colab doesn't allow direct access to localhost:
 
@@ -103,7 +104,7 @@ Copy the URL printed by localtunnel and open it in your browser to access the ap
 
 ---
 
-## ▶️ Running Locally
+## Running Locally
 
 ```bash
 python crawler_vector.py       # First, crawl and build the DB
@@ -114,7 +115,7 @@ Visit `http://localhost:8501`.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 - `beautifulsoup4`
 - `chromadb`
@@ -131,12 +132,12 @@ pip install -r requirements.txt
 
 ---
 
-## 🙌 Contributing
+## Contributing
 
 Pull requests and feature suggestions are welcome.
 
 ---
 
-## 📄 License
+## License
 
 MIT License © [Anuroop V J](https://github.com/AnuroopVJ)
