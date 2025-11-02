@@ -1,7 +1,7 @@
 # Semantic Search Engine
 
 A semantic web search engine that performs context-aware document retrieval using ChromaDB for vector storage, SQLAlchemy for structured metadata storage, and Streamlit for the user interface.
-
+![]()
 ---
 
 ## What this is
